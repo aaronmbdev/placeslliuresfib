@@ -1,0 +1,13 @@
+{
+  "title.label" : "Places lliures - FIB",
+  "footer.first" : "Fet amb amor, React y l'API de la FIB per ",
+  "footer.cafe": "Convída'm un cafè",
+  "general.aqui": "aquí",
+  "button.text":"Veure disponibilitat",
+  "select.text":"Selecciona les teves assignatures",
+  "lastupdate":"Darrera actualització",
+  "error":"Sembla que tinc problemes per carregar les dades, ho sento :(",
+  "loading":"Carregant informació...",
+  "noplazas":"No hi ha cap grup disponible per aquesta assignatura",
+  "actualizado": "S'han actualitzat les places disponibles"
+}

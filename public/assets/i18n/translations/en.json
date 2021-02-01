@@ -1,0 +1,13 @@
+{
+  "title.label" : "Available places  - FIB",
+  "footer.first" : "Made with love, React and the FIB's API by ",
+  "footer.cafe": "Buy me a coffee",
+  "general.aqui": "here",
+  "button.text":"Get availability",
+  "select.text":"Select your subjects",
+  "lastupdate":"Last update",
+  "error":"We're having problems loading data! Sorry :(",
+  "loading":"Loading information...",
+  "noplazas":"There's no group available for this subject",
+  "actualizado": "Available places updated"
+}

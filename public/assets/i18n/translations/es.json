@@ -1,0 +1,14 @@
+{
+  "title.label" : "Plazas libres - FIB",
+  "footer.first" : "Hecho con amor, React y la API de la FIB por ",
+  "footer.cafe": "Invítame un café",
+  "general.aqui": "aquí",
+  "button.text":"Ver disponibilidad",
+  "select.text":"Selecciona tus asignaturas",
+  "lastupdate":"Última actualización",
+  "error":"Parece que hay problemas cargando la información, Lo siento :(",
+  "loading":"Cargando datos...",
+  "noplazas":"No hay ningún grupo disponible para esta asignatura",
+  "actualizado": "Se han actualizado las plazas disponibles"
+
+}
